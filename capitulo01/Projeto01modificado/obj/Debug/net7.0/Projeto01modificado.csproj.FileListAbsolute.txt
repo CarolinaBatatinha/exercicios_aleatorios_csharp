@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\Projeto01modificado.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\Projeto01modificado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\Projeto01modificado.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\Projeto01modificado.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\Projeto01modificado.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\bin\Debug\net7.0\Projeto01modificado.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\bin\Debug\net7.0\Projeto01modificado.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\bin\Debug\net7.0\Projeto01modificado.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\bin\Debug\net7.0\Projeto01modificado.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\bin\Debug\net7.0\Projeto01modificado.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\Projeto01modificado.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\refint\Projeto01modificado.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\Projeto01modificado.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\Projeto01modificado.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\Projeto01modificado\obj\Debug\net7.0\ref\Projeto01modificado.dll
