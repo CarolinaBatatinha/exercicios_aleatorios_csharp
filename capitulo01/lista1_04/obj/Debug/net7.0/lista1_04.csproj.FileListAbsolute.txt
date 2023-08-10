@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\bin\Debug\net7.0\lista1_04.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\bin\Debug\net7.0\lista1_04.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\bin\Debug\net7.0\lista1_04.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\bin\Debug\net7.0\lista1_04.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\bin\Debug\net7.0\lista1_04.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\lista1_04.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\lista1_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\lista1_04.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\lista1_04.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\lista1_04.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\lista1_04.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\refint\lista1_04.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\lista1_04.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\lista1_04.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_04\obj\Debug\net7.0\ref\lista1_04.dll
