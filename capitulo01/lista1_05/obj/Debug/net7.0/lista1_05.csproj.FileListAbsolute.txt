@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\bin\Debug\net7.0\lista1_05.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\bin\Debug\net7.0\lista1_05.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\bin\Debug\net7.0\lista1_05.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\bin\Debug\net7.0\lista1_05.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\bin\Debug\net7.0\lista1_05.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\lista1_05.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\lista1_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\lista1_05.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\lista1_05.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\lista1_05.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\lista1_05.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\refint\lista1_05.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\lista1_05.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\lista1_05.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista1_05\obj\Debug\net7.0\ref\lista1_05.dll
