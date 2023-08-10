@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\bin\Debug\net7.0\lista02.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\bin\Debug\net7.0\lista02.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\bin\Debug\net7.0\lista02.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\bin\Debug\net7.0\lista02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\bin\Debug\net7.0\lista02.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\lista02.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\lista02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\lista02.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\lista02.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\lista02.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\lista02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\refint\lista02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\lista02.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\lista02.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\lista02\obj\Debug\net7.0\ref\lista02.dll
