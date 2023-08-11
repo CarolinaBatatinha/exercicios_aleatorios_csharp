@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\bin\Debug\net7.0\Projeto02.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\bin\Debug\net7.0\Projeto02.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\bin\Debug\net7.0\Projeto02.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\bin\Debug\net7.0\Projeto02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\bin\Debug\net7.0\Projeto02.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\Projeto02.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\Projeto02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\Projeto02.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\Projeto02.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\Projeto02.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\Projeto02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\refint\Projeto02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\Projeto02.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\Projeto02.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo01\Projeto02\obj\Debug\net7.0\ref\Projeto02.dll
