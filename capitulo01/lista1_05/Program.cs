@@ -24,8 +24,7 @@ namespace lista1_05
 
             if (encontrado)
             {
-                Console.WriteLine($"O nome {nomeUsuario} foi encontrado.");
-                    
+                Console.WriteLine($"O nome {nomeUsuario} foi encontrado.");    
             }
             else
             {
