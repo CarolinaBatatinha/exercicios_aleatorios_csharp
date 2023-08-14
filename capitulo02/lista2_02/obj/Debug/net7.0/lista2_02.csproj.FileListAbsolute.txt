@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\bin\Debug\net7.0\lista2_02.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\bin\Debug\net7.0\lista2_02.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\bin\Debug\net7.0\lista2_02.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\bin\Debug\net7.0\lista2_02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\bin\Debug\net7.0\lista2_02.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\lista2_02.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\lista2_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\lista2_02.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\lista2_02.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\lista2_02.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\lista2_02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\refint\lista2_02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\lista2_02.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\lista2_02.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo02\lista2_02\obj\Debug\net7.0\ref\lista2_02.dll
