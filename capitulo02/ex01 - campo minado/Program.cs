@@ -70,4 +70,4 @@ do
             fimJogo = true;
             break;
     }
-} while (!fimJogo);.
+} while (!fimJogo);
