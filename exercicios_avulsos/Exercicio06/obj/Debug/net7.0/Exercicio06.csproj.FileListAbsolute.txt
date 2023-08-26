@@ -1,0 +1,15 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\bin\Debug\net7.0\Exercicio06.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\bin\Debug\net7.0\Exercicio06.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\bin\Debug\net7.0\Exercicio06.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\bin\Debug\net7.0\Exercicio06.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\bin\Debug\net7.0\Exercicio06.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\Exercicio06.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\Exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\Exercicio06.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\Exercicio06.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\Exercicio06.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\Exercicio06.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\refint\Exercicio06.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\Exercicio06.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\Exercicio06.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\exercicios_avulsos\Exercicio06\obj\Debug\net7.0\ref\Exercicio06.dll
