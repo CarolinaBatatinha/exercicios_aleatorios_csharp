@@ -1,0 +1,14 @@
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\bin\Debug\net7.0\ex01.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\bin\Debug\net7.0\ex01.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\bin\Debug\net7.0\ex01.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\bin\Debug\net7.0\ex01.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\bin\Debug\net7.0\ex01.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\ex01.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\ex01.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\ex01.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\ex01.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\refint\ex01.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\ex01.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\ex01.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\1 - VETORES\ex01\obj\Debug\net7.0\ref\ex01.dll
