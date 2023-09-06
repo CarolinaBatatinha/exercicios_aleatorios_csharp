@@ -8,7 +8,7 @@ double[,] notas =
 };
 Console.WriteLine(notas[0,1]);
 
-notas[0, 1] = 6.4;
+notas[0, 1] = 5.4;
 
 // como declarar uma matriz vazia:
 
