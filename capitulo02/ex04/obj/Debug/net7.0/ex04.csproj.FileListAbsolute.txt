@@ -1,0 +1,14 @@
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\ex04.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\ex04.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\ex04.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\bin\Debug\net7.0\ex04.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\bin\Debug\net7.0\ex04.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\bin\Debug\net7.0\ex04.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\bin\Debug\net7.0\ex04.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\bin\Debug\net7.0\ex04.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\ex04.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\refint\ex04.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\ex04.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\ex04.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\REVISÃO\2 - MATRIZES\ex04\obj\Debug\net7.0\ref\ex04.dll
