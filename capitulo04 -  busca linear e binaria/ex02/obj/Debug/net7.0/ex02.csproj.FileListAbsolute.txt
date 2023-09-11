@@ -1,0 +1,29 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\bin\Debug\net7.0\ex02.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\bin\Debug\net7.0\ex02.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\bin\Debug\net7.0\ex02.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\bin\Debug\net7.0\ex02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\bin\Debug\net7.0\ex02.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ex02.csproj.AssemblyReference.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ex02.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ex02.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ex02.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ex02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\refint\ex02.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ex02.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ex02.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04\exercicio_em_aula\ex02\obj\Debug\net7.0\ref\ex02.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\bin\Debug\net7.0\ex02.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\bin\Debug\net7.0\ex02.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\bin\Debug\net7.0\ex02.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\bin\Debug\net7.0\ex02.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\bin\Debug\net7.0\ex02.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\ex02.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\ex02.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\ex02.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\ex02.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\refint\ex02.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\ex02.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\ex02.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo04 -  busca linear e binaria\ex02\obj\Debug\net7.0\ref\ex02.dll
