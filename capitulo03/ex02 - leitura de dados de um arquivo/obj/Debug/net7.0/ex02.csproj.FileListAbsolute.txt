@@ -1,0 +1,14 @@
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\bin\Debug\net7.0\ex02.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\bin\Debug\net7.0\ex02.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\bin\Debug\net7.0\ex02.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\bin\Debug\net7.0\ex02.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\bin\Debug\net7.0\ex02.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\ex02.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\ex02.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\ex02.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\ex02.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\refint\ex02.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\ex02.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\ex02.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo03 - manipulacao de arquivos\ex02\obj\Debug\net7.0\ref\ex02.dll
