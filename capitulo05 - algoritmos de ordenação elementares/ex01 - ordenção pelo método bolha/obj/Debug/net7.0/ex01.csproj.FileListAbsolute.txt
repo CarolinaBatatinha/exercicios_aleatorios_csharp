@@ -1,0 +1,14 @@
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\bin\Debug\net7.0\ex01.exe
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\bin\Debug\net7.0\ex01.deps.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\bin\Debug\net7.0\ex01.runtimeconfig.json
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\bin\Debug\net7.0\ex01.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\bin\Debug\net7.0\ex01.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\ex01.AssemblyInfoInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\ex01.AssemblyInfo.cs
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\ex01.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\ex01.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\refint\ex01.dll
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\ex01.pdb
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\ex01.genruntimeconfig.cache
+D:\Documentos\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex01\obj\Debug\net7.0\ref\ex01.dll
