@@ -1,0 +1,14 @@
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\bin\Debug\net7.0\ex03 - ordenação por inserção.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\bin\Debug\net7.0\ex03 - ordenação por inserção.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\bin\Debug\net7.0\ex03 - ordenação por inserção.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\bin\Debug\net7.0\ex03 - ordenação por inserção.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\bin\Debug\net7.0\ex03 - ordenação por inserção.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\ex03 - ordenação por inserção.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\ex03 - ordenação por inserção.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\ex03 - ordenação por inserção.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\ex03 - ordenação por inserção.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\ex03 - ordenação por inserção.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\refint\ex03 - ordenação por inserção.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\ex03 - ordenação por inserção.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\ex03 - ordenação por inserção.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex03 - ordenação por inserção\obj\Debug\net7.0\ref\ex03 - ordenação por inserção.dll
