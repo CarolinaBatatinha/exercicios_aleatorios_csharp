@@ -1,0 +1,14 @@
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\bin\Debug\net7.0\ex02 - ordenação por seleção.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\bin\Debug\net7.0\ex02 - ordenação por seleção.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\bin\Debug\net7.0\ex02 - ordenação por seleção.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\bin\Debug\net7.0\ex02 - ordenação por seleção.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\bin\Debug\net7.0\ex02 - ordenação por seleção.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\ex02 - ordenação por seleção.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\ex02 - ordenação por seleção.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\ex02 - ordenação por seleção.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\ex02 - ordenação por seleção.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\ex02 - ordenação por seleção.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\refint\ex02 - ordenação por seleção.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\ex02 - ordenação por seleção.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\ex02 - ordenação por seleção.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo05 - algoritmos de ordenação elementares\ex02 - ordenação por seleção\obj\Debug\net7.0\ref\ex02 - ordenação por seleção.dll
