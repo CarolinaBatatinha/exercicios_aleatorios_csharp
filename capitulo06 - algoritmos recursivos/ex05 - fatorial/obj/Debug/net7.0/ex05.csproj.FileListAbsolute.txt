@@ -1,0 +1,14 @@
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\bin\Debug\net7.0\ex05.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\bin\Debug\net7.0\ex05.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\bin\Debug\net7.0\ex05.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\bin\Debug\net7.0\ex05.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\bin\Debug\net7.0\ex05.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\ex05.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\ex05.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\ex05.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\ex05.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\ex05.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\refint\ex05.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\ex05.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\ex05.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex05\obj\Debug\net7.0\ref\ex05.dll
