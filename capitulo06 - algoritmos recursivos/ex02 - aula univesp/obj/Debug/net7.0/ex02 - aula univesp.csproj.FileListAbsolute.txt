@@ -1,0 +1,14 @@
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\bin\Debug\net7.0\ex02 - aula univesp.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\bin\Debug\net7.0\ex02 - aula univesp.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\bin\Debug\net7.0\ex02 - aula univesp.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\bin\Debug\net7.0\ex02 - aula univesp.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\bin\Debug\net7.0\ex02 - aula univesp.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\ex02 - aula univesp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\ex02 - aula univesp.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\ex02 - aula univesp.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\ex02 - aula univesp.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\ex02 - aula univesp.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\refint\ex02 - aula univesp.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\ex02 - aula univesp.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\ex02 - aula univesp.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo06 - algoritmos recursivos\ex02 - aula univesp\obj\Debug\net7.0\ref\ex02 - aula univesp.dll
