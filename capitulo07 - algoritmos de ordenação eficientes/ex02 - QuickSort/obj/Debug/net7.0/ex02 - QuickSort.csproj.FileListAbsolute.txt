@@ -1,0 +1,14 @@
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\bin\Debug\net7.0\ex02 - QuickSort.exe
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\bin\Debug\net7.0\ex02 - QuickSort.deps.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\bin\Debug\net7.0\ex02 - QuickSort.runtimeconfig.json
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\bin\Debug\net7.0\ex02 - QuickSort.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\bin\Debug\net7.0\ex02 - QuickSort.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\ex02 - QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\ex02 - QuickSort.AssemblyInfoInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\ex02 - QuickSort.AssemblyInfo.cs
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\ex02 - QuickSort.csproj.CoreCompileInputs.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\ex02 - QuickSort.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\refint\ex02 - QuickSort.dll
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\ex02 - QuickSort.pdb
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\ex02 - QuickSort.genruntimeconfig.cache
+D:\SENAC\2 - periodo2\Algoritmos e Programação II\exercícios\capitulo07 - algoritmos de ordenação eficientes\ex02 - QuickSort\obj\Debug\net7.0\ref\ex02 - QuickSort.dll
